@@ -1,0 +1,18 @@
+{
+    "prefix": "!",
+    "BotName": "The Bot",
+
+    "ServerID": "998298227323441232",
+    "ServerName": "Bot",
+    "ModeratorRole": "ADMIN",
+    "ModMailCategoryName": "MODMAIL",
+    
+    "EmbedColor": "GRAY",
+    "CloseEmbedColor": "RED",
+    "OpenEmbedColor": "GREEN",
+    "EmbedFooter": "Ander_200921",
+    
+    "StatusText": "!help | ModMail Bot",
+    "StatusType": "STREAMING",
+    "StatusURL": "https://www.twitch.tv/tariel225"
+}  
